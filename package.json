@@ -30,7 +30,7 @@
     "@babel/plugin-syntax-dynamic-import": "7.8.3",
     "@babel/preset-env": "7.9.0",
     "@babel/runtime": "7.9.2",
-    "@babel/runtime-corejs3": "7.9.2",
+    "@babel/runtime-corejs3": "7.26.0",
     "async": "3.2.0",
     "babel-loader": "8.1.0",
     "base64-inline-loader": "1.1.1",
